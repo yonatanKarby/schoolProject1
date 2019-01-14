@@ -1,2 +1,3 @@
-def hello():
-    return helloWorld
+def parseSmallString(string):
+    for i in range(len(string)):
+        return i
