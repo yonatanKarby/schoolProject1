@@ -1,1 +1,2 @@
-a = 1
+def hello():
+    return helloWorld
